@@ -105,5 +105,4 @@ Model performance depends on data quality, class distribution, feature selection
 
 **Srinivas Panchangam**
 
-- **GitHub:** [Your GitHub Profile](YOUR-GITHUB-PROFILE-URL)
 - **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
