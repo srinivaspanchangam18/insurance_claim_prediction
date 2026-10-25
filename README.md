@@ -105,4 +105,4 @@ Model performance depends on data quality, class distribution, feature selection
 
 **Srinivas Panchangam**
 
-- **LinkedIn:** [Your LinkedIn Profile](YOUR-LINKEDIN-PROFILE-URL)
+- **LinkedIn:** [Srinivas Panchangam](https://www.linkedin.com/in/srinivas-panchangam-271a262b4/)
